@@ -1,7 +1,8 @@
-//: [Previous](@previous)
-
 import Foundation
 
-var greeting = "Hello, playground"
+// FUNCIONES
 
-//: [Next](@next)
+func saludar () {
+    print ("Hola")
+}
+saludar()
