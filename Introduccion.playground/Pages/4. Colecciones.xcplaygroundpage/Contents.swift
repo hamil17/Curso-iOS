@@ -1,23 +1,8 @@
-//: [Previous](@previous)
-
 import Foundation
 
-// Colecciones (Colections)
+// ARRAYS
+// Es una colección en forma de una lista ordenada de valores del mismo tipo de datos.
+// [1, 5, 10, -1, 0, 8]
 
-// Arrays
-var nombres: [String] = ["Paco", "María", "Juan", "Ana"]
-
-var numeros = [1, 2, 3, 4, 5]
-var nombresVacios = [String]()
-
-nombresVacios.append("Julio")
-print(nombresVacios)
-
-var todosLosNombres = nombres + nombresVacios
-print(todosLosNombres)
-
-print("Hay \(todosLosNombres.count) nombres")
-
-
-
-//: [Next](@next)
+var arrayVacio: [Int] = []
+print(arrayVacio)
