@@ -1,5 +1,3 @@
-//: [Previous](@previous)
-
 import Foundation
 
 var miString = "Hola"
@@ -55,5 +53,3 @@ print (cadena3.lowercased())
 
 
 
-
-//: [Next](@next)
